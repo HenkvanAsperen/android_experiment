@@ -19,7 +19,7 @@
         android:textSize="75sp"
         tools:text="WHIB" />
 
-    <TextViewasd
+    <TextView
         android:id="@+id/textView3"
         android:layout_width="400dp"
         android:layout_height="wrap_content"
