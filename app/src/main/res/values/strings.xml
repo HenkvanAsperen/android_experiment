@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="exit">Exit</string>
+    <string name="button">Button</string>
+    <string name="Start">start</string>
+    <string name="whib3">WHIB</string>
+    <string name="where_have_i_been">Where Have I Been? Start your journey today!
+
+    </string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview">TextView</string>
+    <string name="whib2">WHIB</string>
+    <string name="todo3">TODO</string>
+    <string name="button2">Button</string>
+    <string name="settings">Settings</string>
+    <string name="settings2">Settings</string>
+    <string name="todo">TODO</string>
+    <string name="whib">WHIB</string>
+    <string name="setting">SETTINGS</string>
+    <string name="on_off">On/Off</string>
+    <string name="full_screen">Full Screen</string>
+    <string name="night_mode">Night mode</string>
+    <string name="another_option">Another option</string>
+    <string name="on_off1">On/Off</string>
+    <string name="on_off2">On/Off</string>
+    <string name="joe">Joe</string>
+    <string name="harry">Harry</string>
+    <string name="picture">picture</string>
+</resources>
