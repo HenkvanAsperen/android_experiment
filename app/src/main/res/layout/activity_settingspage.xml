@@ -43,7 +43,7 @@
         tools:ignore="MissingConstraints" />
 
     <ImageButton
-        android:id="@+id/imageButton"
+        android:id="@+id/backtomap"
         style="@android:style/Widget.Holo.ImageButton"
         android:layout_width="66dp"
         android:layout_height="68dp"
@@ -54,7 +54,7 @@
         android:scaleType="fitStart"
         android:scaleX="1"
         android:scaleY="1"
-        android:src="?attr/homeAsUpIndicator"
+        android:src="@drawable/ic_arrow_back_black_24dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
