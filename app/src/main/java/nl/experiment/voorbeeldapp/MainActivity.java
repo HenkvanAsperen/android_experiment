@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
         private void configuregotomappage(){
-            Button gotomappage = (Button) findViewById(R.id.gotomappage);
+            Button gotomappage = findViewById(R.id.gotomappage);
             gotomappage.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {

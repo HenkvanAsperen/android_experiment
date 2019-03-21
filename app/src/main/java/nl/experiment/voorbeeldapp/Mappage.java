@@ -18,7 +18,7 @@ ImageButton  gotosettings;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mappage);
 
-        gotosettings = (ImageButton) findViewById(R.id.gotosettings);
+        gotosettings = findViewById(R.id.gotosettings);
         gotosettings.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

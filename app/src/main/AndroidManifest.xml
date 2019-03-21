@@ -11,7 +11,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="AllowBackup,GoogleAppIndexingWarning">
-        <activity android:name=".Settings"></activity>
+        <activity android:name=".Memorylist"></activity>
+        <activity android:name=".Memorydetail" />
+        <activity android:name=".Memorycreate" />
         <activity
             android:name=".Main2Activity"
             android:label="@string/title_activity_main2"
@@ -25,6 +27,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".Settingspage" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
     </application>
 
 </manifest>
